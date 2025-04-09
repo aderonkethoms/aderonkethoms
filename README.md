@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aderonkethoms
-- 👀 I’m interested in Trustworthy AI & Cybersecurity
+- 👀 I’m interested in Cloud, Trustworthy AI & Cybersecurity
 - 🌱 I’m currently learning Generative AI
 - 💞️ I’m looking to collaborate on Artificial Intelligence in Cybersecurity
 - 📫 How to reach me aderthom@gmail.com
