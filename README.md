@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @aderonkethoms
-- 👀 I’m interested in Cloud, Trustworthy AI & Cybersecurity
-- 🌱 I’m currently learning Generative AI
-- 💞️ I’m looking to collaborate on Artificial Intelligence in Cybersecurity
-- 📫 How to reach me aderthom@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Tech Geek
-
-<!---
-aderonkethoms/aderonkethoms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔬 PhD | AI Governance & GRC Professional | Researcher 
+- 🛡️ ISO 27001 LA/LI | ISO 42001 Practitioner | NIS2 | ICS/OT
+- 🤖 Adversarial ML Researcher (GAOR, Network 2025) | 108 publications
+- 🌍 ERCIM Postdoctoral Fellow, VTT Finland (2022–2024)
+- 🔗 Co-Founder HappymentCoin | AI-TPRM Toolkit creator
+- 📫 aderthom@gmail.com | ORCID: 0000-0003-2182-1505
